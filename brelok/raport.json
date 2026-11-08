@@ -1,0 +1,36 @@
+{
+  "TPU": {
+    "plik": "brelok_AW44_TPU.stl",
+    "szczelny (watertight)": true,
+    "rodzaj (genus)": 4,
+    "wymiary [mm]": [
+      41.9,
+      58.4,
+      10.6
+    ],
+    "objetosc [cm3]": 3.46,
+    "waga [g]": 4.2,
+    "kolizja z zegarkiem [mm3]": 0.0,
+    "kolizja z ladowarka [mm3]": 0.0,
+    "min. odstep od ladowarki [mm]": 2.45,
+    "nawisy >45 st. [mm2]": 268.4,
+    "trojkaty": 7210
+  },
+  "PETG": {
+    "plik": "brelok_AW44_PETG.stl",
+    "szczelny (watertight)": true,
+    "rodzaj (genus)": 4,
+    "wymiary [mm]": [
+      41.5,
+      58.0,
+      10.6
+    ],
+    "objetosc [cm3]": 2.88,
+    "waga [g]": 3.7,
+    "kolizja z zegarkiem [mm3]": 0.0,
+    "kolizja z ladowarka [mm3]": 0.0,
+    "min. odstep od ladowarki [mm]": 2.45,
+    "nawisy >45 st. [mm2]": 269.0,
+    "trojkaty": 7002
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "czesci": {
+    "korpus": {
+      "szczelny": true,
+      "bryly": 1,
+      "wymiary [mm]": [
+        61.8,
+        103.5,
+        9.4
+      ],
+      "waga [g]": 38.2
+    },
+    "klapka": {
+      "szczelny": true,
+      "bryly": 1,
+      "wymiary [mm]": [
+        61.8,
+        103.5,
+        2.1
+      ],
+      "waga [g]": 10.2
+    },
+    "kolko": {
+      "szczelny": true,
+      "bryly": 1,
+      "wymiary [mm]": [
+        42.0,
+        42.0,
+        9.2
+      ],
+      "waga [g]": 9.5
+    },
+    "popychacz": {
+      "szczelny": true,
+      "bryly": 1,
+      "wymiary [mm]": [
+        3.8,
+        12.0,
+        12.1
+      ],
+      "waga [g]": 0.4
+    },
+    "pokretlo": {
+      "szczelny": true,
+      "bryly": 1,
+      "wymiary [mm]": [
+        8.0,
+        8.0,
+        2.2
+      ],
+      "waga [g]": 0.1
+    },
+    "przedluzka_5.0": {
+      "szczelny": true,
+      "bryly": 1,
+      "wymiary [mm]": [
+        6.7,
+        6.7,
+        12.4
+      ],
+      "waga [g]": 0.3
+    },
+    "przedluzka_5.4": {
+      "szczelny": true,
+      "bryly": 1,
+      "wymiary [mm]": [
+        7.1,
+        7.1,
+        12.4
+      ],
+      "waga [g]": 0.3
+    },
+    "przedluzka_5.8": {
+      "szczelny": true,
+      "bryly": 1,
+      "wymiary [mm]": [
+        7.4,
+        7.4,
+        12.4
+      ],
+      "waga [g]": 0.3
+    },
+    "przedluzka_6.2": {
+      "szczelny": true,
+      "bryly": 1,
+      "wymiary [mm]": [
+        7.8,
+        7.8,
+        12.4
+      ],
+      "waga [g]": 0.3
+    },
+    "przedluzka_6.6": {
+      "szczelny": true,
+      "bryly": 1,
+      "wymiary [mm]": [
+        8.2,
+        8.2,
+        12.4
+      ],
+      "waga [g]": 0.3
+    },
+    "test_rog": {
+      "szczelny": true,
+      "bryly": 1,
+      "wymiary [mm]": [
+        24.9,
+        50.0,
+        9.4
+      ],
+      "waga [g]": 6.8
+    }
+  },
+  "kontrola": {
+    "korpus/zegarek [mm3]": 0.0,
+    "korpus/klapka": 0.0,
+    "korpus/kolko": 0.0,
+    "korpus/popychacz": 0.0,
+    "korpus/przedluzka": 0.0,
+    "korpus/pokretlo": 0.0,
+    "klapka/kolko": 0.0,
+    "klapka/przedluzka": 0.0,
+    "klapka/pokretlo": 0.0,
+    "klapka/ladowarka": 0.0,
+    "korpus/ladowarka": 0.0,
+    "popychacz/zegarek": 0.0,
+    "docisk sprezynek (klapka/zegarek, oczekiwane > 0)": 1.239,
+    "wcisk gniazda na koronke 5.8 (oczekiwane > 0)": 2.283,
+    "odstep ladowarka-klapka [mm]": 2.05,
+    "wymiary obudowy [mm]": [
+      61.8,
+      103.5,
+      11.0
+    ]
+  }
+}
